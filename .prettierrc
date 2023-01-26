@@ -1,0 +1,6 @@
+{
+    "trainlingComma":"es5",
+    "tabwidth":2,
+    "semi": false,
+    "singlequote": true
+}
