@@ -46,10 +46,11 @@ const Home = () => {
       //setLetterClass('text-animate-hover')
     //}, 4000)
   //}, [])
-
   return (
     <>
       <div className="container home-page">
+      
+        < Loader type="pacman"/>
         <div className="text-zone">
           <h1>
             <span className={letterClass}>H</span>
